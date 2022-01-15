@@ -29,6 +29,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. BackgroundWorker", "05.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread-Class-BackgroundWorker-Console", "05. BackgroundWorker\Thread-Class-BackgroundWorker-Console\Thread-Class-BackgroundWorker-Console.csproj", "{A1541043-6954-4B0B-B489-A86BFFBCF2A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread-Class-BackgroundWorker-Winform", "05. BackgroundWorker\Thread-Class-BackgroundWorker-Winform\Thread-Class-BackgroundWorker-Winform.csproj", "{06FF29F5-DB6C-44EC-99E6-9EBD240D771E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{A1541043-6954-4B0B-B489-A86BFFBCF2A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1541043-6954-4B0B-B489-A86BFFBCF2A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1541043-6954-4B0B-B489-A86BFFBCF2A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06FF29F5-DB6C-44EC-99E6-9EBD240D771E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FF29F5-DB6C-44EC-99E6-9EBD240D771E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FF29F5-DB6C-44EC-99E6-9EBD240D771E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FF29F5-DB6C-44EC-99E6-9EBD240D771E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -80,6 +86,7 @@ Global
 		{2FEB56A6-251B-420E-A871-14E34E3177FB} = {385AEC7F-B3B3-485E-AA6F-F590FA7A226D}
 		{14EC7F9D-BA1A-4AAC-9708-8C46D53604DC} = {487174A4-999F-4A40-8F88-062B82916588}
 		{A1541043-6954-4B0B-B489-A86BFFBCF2A1} = {3352FC52-7E73-4AC9-809C-1A95E588A0E5}
+		{06FF29F5-DB6C-44EC-99E6-9EBD240D771E} = {3352FC52-7E73-4AC9-809C-1A95E588A0E5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A07B3154-83F2-42CA-9144-C99231B8B33F}
