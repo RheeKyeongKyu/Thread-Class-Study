@@ -35,6 +35,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06. Task Class", "06. Task 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread-Class-Task-Factory-StartNew", "06. Task Class\Thread-Class-Task-Factory-StartNew\Thread-Class-Task-Factory-StartNew.csproj", "{8624EB78-830B-4232-96AB-8EDA87995DC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread-Class-Task-Start-Wait", "06. Task Class\Thread-Class-Task-Start-Wait\Thread-Class-Task-Start-Wait.csproj", "{E11006DB-9AC8-460F-83B1-63E1284795DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{8624EB78-830B-4232-96AB-8EDA87995DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8624EB78-830B-4232-96AB-8EDA87995DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8624EB78-830B-4232-96AB-8EDA87995DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E11006DB-9AC8-460F-83B1-63E1284795DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E11006DB-9AC8-460F-83B1-63E1284795DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E11006DB-9AC8-460F-83B1-63E1284795DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E11006DB-9AC8-460F-83B1-63E1284795DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -96,6 +102,7 @@ Global
 		{A1541043-6954-4B0B-B489-A86BFFBCF2A1} = {3352FC52-7E73-4AC9-809C-1A95E588A0E5}
 		{06FF29F5-DB6C-44EC-99E6-9EBD240D771E} = {3352FC52-7E73-4AC9-809C-1A95E588A0E5}
 		{8624EB78-830B-4232-96AB-8EDA87995DC2} = {1AFDF0A9-030F-40BD-B7BD-DB22FBC9FADC}
+		{E11006DB-9AC8-460F-83B1-63E1284795DD} = {1AFDF0A9-030F-40BD-B7BD-DB22FBC9FADC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A07B3154-83F2-42CA-9144-C99231B8B33F}
