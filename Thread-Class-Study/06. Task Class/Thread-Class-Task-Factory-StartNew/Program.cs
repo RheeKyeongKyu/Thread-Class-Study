@@ -8,9 +8,9 @@ namespace Thread_Class_Task_Factory_StartNew
         static void Main(string[] args)
         {
             //// Task Class
-            // Gets Thread from ThreadPool executes Asynchronous operation
+            // Gets Thread from ThreadPool and executes Asynchronous operation
             // Similar to ThreadPool.QueueUserWorkItem(), but with improved performance and functionality
-            // Normally, Task.Factory.StartNew() is used to specify the delegate for the method to run
+            // Normally, Task.Factory.StartNew() is used to specify the delegate for the method and run right after
             
             // Use Task.Factory to create Thread and start Thread
             Task.Factory.StartNew(action: new Action<object>(Run), state: null);

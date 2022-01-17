@@ -13,6 +13,7 @@ namespace Thread_Class_Asynchronous_Delegate
 
             // Execute BeginInvoke() by Delegate Instance
             // Assign two input parameters
+            // The return value asyncResult tells which Thread it points to
             IAsyncResult asyncResult = work.BeginInvoke(arg1: 10, arg2: 20, callback: null, @object: null);
 
             Console.WriteLine("(Do something in Main Thread)");

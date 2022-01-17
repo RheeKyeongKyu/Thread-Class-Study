@@ -11,7 +11,7 @@ namespace Thread_Class_Parameter
             Thread thread1 = new Thread(new ThreadStart(Run));
             thread1.Start();
 
-            // Passing parameter to ParameterizedThreadStart
+            // Passing (object type)parameter to ParameterizedThreadStart
             // Passing radius as parameter of Start()
             Thread thread2 = new Thread(start: new ParameterizedThreadStart(Calc));
             thread2.Start(10.00);

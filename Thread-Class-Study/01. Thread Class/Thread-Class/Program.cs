@@ -13,6 +13,7 @@ namespace Thread_Class
         private void DoTest()
         {
             // Execute Run() in new Thread (ManagedThreadId: 3)
+            // Assign the method to be executed as a delegate in the class's constructor
             Thread thread1 = new Thread(new ThreadStart(Run));
             thread1.Start();
 

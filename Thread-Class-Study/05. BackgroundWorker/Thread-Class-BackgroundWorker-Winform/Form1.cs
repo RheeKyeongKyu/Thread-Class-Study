@@ -69,7 +69,7 @@ namespace Thread_Class_BackgroundWorker_Winform
                 string fileName = $"Data_{i}.txt";
                 Upload(fileName);
 
-                // Report progress
+                // Report progress (Raises ProgressChanged event)
                 worker.ReportProgress(percentProgress: i, userState: fileName);
             }
 
@@ -105,6 +105,8 @@ namespace Thread_Class_BackgroundWorker_Winform
             }
             else
             {
+                btnRun.Enabled = true;
+                btnCancel.Enabled = false;
                 textBox1.Text = $"{e.Result} files uploaded";
             }
         }
