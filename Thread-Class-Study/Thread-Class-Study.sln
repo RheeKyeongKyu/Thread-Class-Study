@@ -47,6 +47,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08. Parallel Class", "08. P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread-Class-Data-Parallelism", "08. Parallel Class\Thread-Class-Data-Parallelism\Thread-Class-Data-Parallelism.csproj", "{46304927-2FDE-4DDD-A39D-B2ED26924A1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread-Class-Caesar-Cipher", "08. Parallel Class\Thread-Class-Caesar-Cipher\Thread-Class-Caesar-Cipher.csproj", "{B9F74B0E-ABD1-40B2-957E-C139BEEDCCC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -109,6 +111,10 @@ Global
 		{46304927-2FDE-4DDD-A39D-B2ED26924A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46304927-2FDE-4DDD-A39D-B2ED26924A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46304927-2FDE-4DDD-A39D-B2ED26924A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F74B0E-ABD1-40B2-957E-C139BEEDCCC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F74B0E-ABD1-40B2-957E-C139BEEDCCC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F74B0E-ABD1-40B2-957E-C139BEEDCCC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F74B0E-ABD1-40B2-957E-C139BEEDCCC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -128,6 +134,7 @@ Global
 		{ED8FD090-2E5E-458D-B082-C62BAB2F853A} = {A3AFD4D9-83A7-4C23-90CC-F63A5B2E4517}
 		{AE4495A2-E627-44FB-9BD6-77F6B5942E0E} = {A3AFD4D9-83A7-4C23-90CC-F63A5B2E4517}
 		{46304927-2FDE-4DDD-A39D-B2ED26924A1B} = {B27274AD-DB42-48FF-8D03-5DE835859AD0}
+		{B9F74B0E-ABD1-40B2-957E-C139BEEDCCC2} = {B27274AD-DB42-48FF-8D03-5DE835859AD0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A07B3154-83F2-42CA-9144-C99231B8B33F}
