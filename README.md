@@ -1,6 +1,6 @@
 # Thread-Class-Study
 - C# 쓰레드 클래스 스터디 (C# Thread Class Study)
-- <Reference Link: https://www.csharpstudy.com/Threads/thread.aspx>
+- Reference Link: https://www.csharpstudy.com/Threads/thread.aspx
 
 ## Chapter
 - Chapter 1. Thread Class
@@ -21,4 +21,4 @@
 - .NET Framework 4.8
 
 ## Development Environment
-- Visual Studio 2022
+- Visual Studio 2022 (Windows)
