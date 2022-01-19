@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread-Class-Data-Paralleli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread-Class-Caesar-Cipher", "08. Parallel Class\Thread-Class-Caesar-Cipher\Thread-Class-Caesar-Cipher.csproj", "{B9F74B0E-ABD1-40B2-957E-C139BEEDCCC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread-Class-Invoke", "08. Parallel Class\Thread-Class-Invoke\Thread-Class-Invoke.csproj", "{1B9BE217-7B84-4EE2-9371-56540977B6C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -115,6 +117,10 @@ Global
 		{B9F74B0E-ABD1-40B2-957E-C139BEEDCCC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9F74B0E-ABD1-40B2-957E-C139BEEDCCC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9F74B0E-ABD1-40B2-957E-C139BEEDCCC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B9BE217-7B84-4EE2-9371-56540977B6C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9BE217-7B84-4EE2-9371-56540977B6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9BE217-7B84-4EE2-9371-56540977B6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9BE217-7B84-4EE2-9371-56540977B6C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -135,6 +141,7 @@ Global
 		{AE4495A2-E627-44FB-9BD6-77F6B5942E0E} = {A3AFD4D9-83A7-4C23-90CC-F63A5B2E4517}
 		{46304927-2FDE-4DDD-A39D-B2ED26924A1B} = {B27274AD-DB42-48FF-8D03-5DE835859AD0}
 		{B9F74B0E-ABD1-40B2-957E-C139BEEDCCC2} = {B27274AD-DB42-48FF-8D03-5DE835859AD0}
+		{1B9BE217-7B84-4EE2-9371-56540977B6C2} = {B27274AD-DB42-48FF-8D03-5DE835859AD0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A07B3154-83F2-42CA-9144-C99231B8B33F}
