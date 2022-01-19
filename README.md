@@ -3,18 +3,18 @@
 - <Reference Link: https://www.csharpstudy.com/Threads/thread.aspx>
 
 ## Chapter
-- 01. Thread Class
+- Chapter 1. Thread Class
   - Multiple methods for constructing Thread
   - Calling other class's method in Thread
-- 02. Thread Class
+- Chapter 2. Thread Class
   - Passing parameter in Thread
   - Background and Foreground Thread
-- 03. ThreadPool
-- 04. Asynchronous Delegate
-- 05. BackgroundWorker
-- 06. Task Class
-- 07. Task Of T Class
-- 08. Parallel Class
+- Chapter 3. ThreadPool
+- Chapter 4. Asynchronous Delegate
+- Chapter 5. BackgroundWorker
+- Chapter 6. Task Class
+- Chapter 7. Task Of T Class
+- Chapter 8. Parallel Class
 
 ## Programming Language & Framework
 - C#
