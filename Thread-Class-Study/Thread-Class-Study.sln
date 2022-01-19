@@ -51,6 +51,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread-Class-Caesar-Cipher"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread-Class-Invoke", "08. Parallel Class\Thread-Class-Invoke\Thread-Class-Invoke.csproj", "{1B9BE217-7B84-4EE2-9371-56540977B6C2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09. Await", "09. Await", "{153FA572-3B78-4DE7-9EB7-FA2BE4C1047D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread-Class-Await", "09. Await\Thread-Class-Await\Thread-Class-Await.csproj", "{F598AC66-DEA4-49C2-BA37-75A4FADAD49E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +125,10 @@ Global
 		{1B9BE217-7B84-4EE2-9371-56540977B6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B9BE217-7B84-4EE2-9371-56540977B6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B9BE217-7B84-4EE2-9371-56540977B6C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F598AC66-DEA4-49C2-BA37-75A4FADAD49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F598AC66-DEA4-49C2-BA37-75A4FADAD49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F598AC66-DEA4-49C2-BA37-75A4FADAD49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F598AC66-DEA4-49C2-BA37-75A4FADAD49E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
