@@ -21,10 +21,12 @@ namespace Thread_Class_Await
             RunIt();
         }
 
-        // async, await were introduced in C# 5.0
-        // async informs the compiler that the method has await
-        // await waits for the awaitable object to complete
-        // await allows the compiler to automatically add the necessary code to keep the UI Thread running through the message loop
+        // Async, Await were introduced in C# 5.0
+
+        // Async - Informs the compiler that the method has await
+        // Await - Waits for the awaitable object to complete
+        //       - Allows the compiler to automatically add the necessary code to keep the message loop and UI Thread running
+        //         (message loop: mouse clicks, keyboard input, screen painting, etc.)
 
         // add async to the method
         private async void RunIt()
