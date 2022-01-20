@@ -17,6 +17,7 @@
 - Chapter 8. Parallel Class
 - Chapter 9. Await
 - Chapter 10. Timer
+- Chapter 11. UI Thread
 
 ## Programming Language & Framework
 - C#
