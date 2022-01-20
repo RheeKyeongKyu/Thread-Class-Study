@@ -15,6 +15,7 @@
 - Chapter 6. Task Class
 - Chapter 7. Task Of T Class
 - Chapter 8. Parallel Class
+- Chapter 9. Await
 
 ## Programming Language & Framework
 - C#
