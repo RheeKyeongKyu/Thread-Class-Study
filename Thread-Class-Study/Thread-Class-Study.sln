@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread-Class-Timer-MultiThr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread-Class-Timer-SingleThreading", "10. Timer\Thread-Class-Timer-SingleThreading\Thread-Class-Timer-SingleThreading.csproj", "{3C297BA6-B0CD-453F-9C55-46C52D6F461E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11. UI Thread", "11. UI Thread", "{5DFB2C61-B8F1-4FBE-960A-57693E1B74FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread-Class-UI-Thread", "11. UI Thread\Thread-Class-UI-Thread\Thread-Class-UI-Thread.csproj", "{DCA49608-2D45-486B-A6B0-9BDB14AB6972}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -143,6 +147,10 @@ Global
 		{3C297BA6-B0CD-453F-9C55-46C52D6F461E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C297BA6-B0CD-453F-9C55-46C52D6F461E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C297BA6-B0CD-453F-9C55-46C52D6F461E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA49608-2D45-486B-A6B0-9BDB14AB6972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA49608-2D45-486B-A6B0-9BDB14AB6972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA49608-2D45-486B-A6B0-9BDB14AB6972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA49608-2D45-486B-A6B0-9BDB14AB6972}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -167,6 +175,7 @@ Global
 		{F598AC66-DEA4-49C2-BA37-75A4FADAD49E} = {153FA572-3B78-4DE7-9EB7-FA2BE4C1047D}
 		{DE942107-8132-4848-B4CC-537AB3B0E215} = {27525887-0F34-4B90-896F-964309BB156A}
 		{3C297BA6-B0CD-453F-9C55-46C52D6F461E} = {27525887-0F34-4B90-896F-964309BB156A}
+		{DCA49608-2D45-486B-A6B0-9BDB14AB6972} = {5DFB2C61-B8F1-4FBE-960A-57693E1B74FB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A07B3154-83F2-42CA-9144-C99231B8B33F}
